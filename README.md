@@ -27,7 +27,7 @@
 
 
 ## 분석 결과
-<img width="835" alt="분석결과" src="https://github.com/99shimshim/Large-Data-Management-and-Data-Visualization/issues/1#issue-2049001778">
+<img width="835" alt="분석결과" src="https://github.com/99shimshim/Large-Data-Management-and-Data-Visualization/assets/140596861/850700fc-2905-4a69-a1ec-9f7cdbef9de5">
 
 
 ## 기대효과
