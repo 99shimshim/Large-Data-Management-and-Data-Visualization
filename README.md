@@ -26,7 +26,9 @@
 
 <br><br>
 ## 분석 결과
-<img width="835" alt="분석결과" src="https://github.com/99shimshim/Large-Data-Management-and-Data-Visualization/assets/140596861/850700fc-2905-4a69-a1ec-9f7cdbef9de5">
+<img width="835" alt="분석결과" src="https://github.com/99shimshim/Large-Data-Management-and-Data-Visualization/assets/140596861/850700fc-2905-4a69-a1ec-9f7cdbef9de5"><br>
+<img width="835" alt="분석결과" src="https://github.com/99shimshim/Large-Data-Management-and-Data-Visualization/assets/140596861/4befa8dc-9841-4a28-acfb-1670b03f18f9">
+
 
 <br><br>
 ## 기대효과
